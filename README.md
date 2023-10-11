@@ -19,6 +19,8 @@
 -  IISD_ELA_Site4_Lake_Fertilized_Chem_2015_2020.csv
 -  IISD_ELA_Site1_StreamsA,B,C,D_Ref_HydDischarge_2015_2020.csv
 -  IISD_ELA_Site1_StreamsA,B,C,D_Ref_Chem_2015_2020.csv
+-  Open Canada - Surficial Geology - Geospatial Data & Metadata (needs GIS software to work with it)
+-  NRCAN Geoscan - Surficial Geology of Canada - Map Image/PDF & Metadata
 
 ### Challenge 2: Water Sampler's Targetting App
 | Challenge Statement | Problem Holder | 
