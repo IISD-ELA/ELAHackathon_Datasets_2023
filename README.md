@@ -42,8 +42,8 @@
 | ------------------- | -------------- | 
 | There are large volumes of high-quality data (including some  ELA data!) available to the public on repositories like DataStream, but they can be overwhelming to work with. In addition, models and data visualizations are an important part of environmental reporting and advocacy, but these flashy products can be technically challenging and time-consuming to generate. There is a need for an intuitive tool that enables citizen scientists to ask questions and model or visualize the answers, to be published and disseminated to others in the environmental community. | ACAP Saint John | 
 #### Recommended Datasets
-- ACAP Saint John: Community-Based Water Monitoring Program
-- ACAP Saint John: Nutrients in the lower Wolastoq watershed
+- ACAP_Saint_John_Community-Based_Water_Monitoring_Program.csv
+- ACAP_Saint_John_Nutrients_in_the_lower_Wolastoq_watershed.csv
 - ACAP Saint John: Sediment PAHs
 - IISD_ELA_Sites1,2,3_Lakes_Ref_Secchi_2015_2020.csv
 - IISD_ELA_Sites1,2,3_Lakes_Ref_Profiles(TEMP,COND,DO)_2015_2017.csv
