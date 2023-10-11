@@ -1,6 +1,15 @@
 # IISD-ELA 2023 Hackathon Datasets Repository
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to the IISD-ELA 2023 Hackathon Datasets Repository! This repository serves as a central hub for all the datasets that can be used to solve the three IISD-ELA Hackathon 2023 challenges. Because each dataset was prepared with a specific challenge in mind, we have included dataset recommendations for each challenge in the _____ workbook. This workbook contains the information you need for each challenge such as challenge statements and metadata for recommended datasets.  However, although these recommendations can be useful, you are free to use any dataset from this repository that may align with your project goals. The datasets themselves can be found in the ____ file. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to the IISD-ELA 2023 Hackathon Datasets Repository! This repository serves as a central hub for all the datasets that can be used to solve the three IISD-ELA Hackathon 2023 challenges. Because each dataset was prepared with a specific challenge in mind, we have included dataset recommendations for each challenge in the **Challenges and Recommended Datasets** section of this file. However, although these recommendations can be useful, you are free to use any dataset from this repository that may align with your project goals. Moreover, brief metadata for each dataset can be found in the ____ workbook, and the datasets themselves can be found in the _____ file.
 
+## Challenges and Recommended Datasets
+### Challenge 1:
+- **Recommended Datasets**: 
+
+### Challenge 2:
+- **Recommended Datasets**:
+  
+### Challenge 3:
+- **Recommended Datasets**:
 ## How to Use the Datasets
 
 ## Citing Datasets
