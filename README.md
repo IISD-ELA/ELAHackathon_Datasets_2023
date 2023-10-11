@@ -58,7 +58,8 @@
 
 ## Citing Datasets
 
-## Code of Conduct
+## Terms of Use
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **All participants must follow the terms of use for the datasets provided.** Please carefully read the "ELA DATA - Terms of Use.pdf" file, found in this repository. Reading and following these terms ensures that data is used in a responsible, respectful, and transparent manner, promoting the integrity of the competition and the broader data science and research community.
 
 ## Questions and Support
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have any questions or need assistance with the datasets, please contact the IISD-ELA Hackathon organizing team at...
