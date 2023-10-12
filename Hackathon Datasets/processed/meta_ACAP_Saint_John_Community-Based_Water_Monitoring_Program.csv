@@ -1,0 +1,169 @@
+MonitoringLocationName,count
+Adam's Lake,6
+Alder Brook,24
+Alder Downstream,66
+Alder Upstream,66
+Ashburn Lake Stream,110
+Ashburn Lake Waterfront,48
+Bayshore,415
+Black Beach,408
+Caledonia Downstream,449
+Caledonia Upstream,451
+Cold Brook Wetland,181
+Courtenay Bay,433
+Crescent Lake,397
+Dalek Bog,117
+Digby Ferry Terminal,392
+Dominion Park,368
+Drury's Pasture,125
+Fairweather Brook,499
+Field House Wetland Downstream,181
+Field House Wetland Upstream,168
+Glen Falls Wetland,175
+Grand Bay Downstream,175
+Grand Bay Upstream,418
+Grassy Lake,6
+Harbour 1,15
+Harbour 13,16
+Harbour 14,15
+Harbour 19,9
+Harbour 2,15
+Harbour 20,10
+Harbour 22,16
+Harbour 23,15
+Harbour 27,9
+Harbour 3,16
+Harbour 30,16
+Harbour 31,6
+Harbour 4,16
+Harbour 6,16
+Harrigan Lake,6
+Hazen Creek 2/Expansion,529
+Hazen Creek Beach,24
+Hazen Creek Mouth,498
+Hazen Creek Nearshore,307
+Hazen Creek Neashore,121
+Hazen Creek Upstream,424
+Howes Lake,81
+Inglewood Drive Wetland,7
+Inner Harbour,113
+Inner Harbour 2 (DMK),14
+Inner Harbour Downstream,933
+Inner Harbour Upstream,618
+Kelly Lake,5
+Kennebecasis Bay Downstream,335
+Kennebecasis Bay Upstream,333
+Kennebecasis Drive,427
+Lakewood Swamp,7
+Latimer Lake,13
+Lily Lake Site 1,44
+Lily Lake Site 10,15
+Lily Lake Site 11,15
+Lily Lake Site 12,27
+Lily Lake Site 13,4
+Lily Lake Site 2,44
+Lily Lake Site 3,15
+Lily Lake Site 4,15
+Lily Lake Site 5,44
+Lily Lake Site 6,15
+Lily Lake Site 7,15
+Lily Lake Site 8,15
+Lily Lake Site 9,23
+Little River,449
+Little River Downstream,540
+Little River Nearshore,7
+Little River Reservoir,13
+Little River Swamp,7
+Little River Upstream,564
+Loch Lomond Marsh,7
+Long Lake,6
+Lorneville (Breakwater),7
+Lorneville 1,7
+Lorneville Downstream,155
+Lorneville Downstream 1,12
+Lorneville Downstream 2,12
+Lorneville Downstream 3,12
+Lorneville Downstream 4,12
+Lorneville Downstream 5,12
+Lorneville Stream 1,169
+Lorneville Upstream,176
+Lorneville Upstream 1,12
+Lorneville Upstream 2,12
+Major's Pasture,7
+Manawagonish Creek Downstream,429
+Manawagonish Creek Upstream,410
+Marsh Creek 1,233
+Marsh Creek 11,550
+Marsh Creek 2,630
+Marsh Creek 3,667
+Marsh Creek 4,648
+Marsh Creek 5,656
+Marsh Creek Downstream,1264
+Marsh Creek Upstream,1311
+Marsh Lake,6
+McAllister Marsh,138
+McLaren's Beach,23
+Mellinger Brook Downstream,287
+Mellinger Brook Upstream,259
+Mill Creek,816
+Mill Creek Upstream,135
+Millidge Ave. Pasture,7
+Mispec Beach,441
+Mispec Downstream,65
+Mispec Stream 1,89
+Mispec Stream 2,87
+Mispec Upstream,47
+Mosquito Cove,22
+Mystery Lake,14
+NBCC Marsh,20
+Newman's Brook,140
+Newman's Brook Confluence,70
+Newman's Brook Downstream,200
+Newman's Brook Upstream,266
+Newmans Brook Downstream,229
+Newmans Brook Upstream,264
+Old Black River Bog,7
+Red Head Beach,13
+Red Head Marsh,554
+Renforth Bog,13
+Robertson Lake 1 (Dam),24
+Robertson Lake 2 (Inlet),24
+Robertson Lake 3,20
+Robertson Lake 4,20
+Robertson Lake 5,24
+Robertson Lake Pool,24
+Saints Rest Beach,411
+Saints Rest Downstream,471
+Saints Rest Intertidal Marsh,7
+Saints Rest Upstream,460
+Salmon Creek Downstream,485
+Salmon Creek Upstream,476
+Silver Falls Reservoir,13
+South Bay Downstream,232
+South Bay Upstream,216
+Spar Cove,412
+Spruce Lake Downstream,286
+Spruce Lake Stream Mouth,377
+Spruce Lake Stream Upstream,386
+Spruce Lake Upstream,284
+Taylors Brook Downstream,501
+Taylors Brook Upstream,510
+Tin Can Beach,415
+Walker Creek,42
+CharacteristicName,count
+Ammonia,2912
+Conductivity,1063
+Dissolved oxygen (DO),3118
+Dissolved oxygen saturation,2114
+Escherichia coli,1023
+Fecal Coliform,1533
+Orthophosphate,3377
+pH,3493
+Salinity,3297
+Specific conductance,825
+"Temperature, air",338
+"Temperature, water",3172
+Total Coliform,553
+Total dissolved solids,212
+Total suspended solids,548
+Turbidity,2704

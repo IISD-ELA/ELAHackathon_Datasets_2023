@@ -1,0 +1,4 @@
+dataset_name,site,activity_media_name,area_surface_m2,volume_total_m3,depth_mean_m,depth_max_m
+Bathymetry (lake size metadata),Site1,Lake,541000,6170000,11.4,31.5
+Bathymetry (lake size metadata),Site2,Lake,274000,3110000,11.4,21.2
+Bathymetry (lake size metadata),Site3,Lake,154000,1350000,8.8,18
