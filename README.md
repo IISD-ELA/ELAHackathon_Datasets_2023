@@ -25,7 +25,7 @@
 ### Challenge 2: Water Sampler's Targetting App
 | Challenge Statement | Problem Holder | 
 | ------------------- | -------------- |
-| Many watersheds flow year-round and can span hundreds of kilometers, so it's not possible for a single organization to monitor all sites of potential interest. Instead, local Community-Based Monitoring groups (CBMs) often seek to contribute to a larger body of available data collected by a range of other organizations. However, their access to equipment and staff is limited. CBMs need a tool that will help them to identify nearby monitoring programs - with complementary monitoring objectives – to share resources, increase their collective capacity and to highlight gaps in the available data. With this improved understanding of local resources, capacity, and data gaps, CBMs will be able to better coordinate their efforts with their peers and achieve impactful monitoring at a watershed scale.	| Living Lakes Canada	 | 
+| Many year-round-flowing watersheds can be vast, making it impossible for a single organization to monitor all potential sites. Local Community-Based Monitoring groups (CBMs) aim to contribute to a larger pool of data from various organizations but often face equipment and staff limitations. They require a tool to identify nearby monitoring programs with similar objectives, enabling resource sharing, enhancing collective capacity, and pinpointing data gaps. This will help CBMs coordinate efforts, leading to more impactful watershed-scale monitoring.	| Living Lakes Canada	 | 
 #### Recommended Datasets
 - Living Lakes Kootenay Watershed Science
 - Elk River Alliance
