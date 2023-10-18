@@ -63,6 +63,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **All participants must follow the terms of use for the datasets provided.** Please carefully read the "ELA DATA - Terms of Use.pdf" file, found in this repository. Reading and following these terms ensures that data is used in a responsible, respectful, and transparent manner, promoting the integrity of the competition and the broader data science and research community.
 
 ## Questions and Support
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have any questions or need assistance with the datasets, please contact the IISD-ELA Hackathon organizing team at...
-
-We wish you the best of luck with your hackathon projects and hope these datasets inspire innovative solutions to the challenges at hand! 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have any questions or need assistance with the datasets, please contact Thomas Saleh, IISD-ELA Hackathon coordinator at tsaleh@iisd-ela.org. We wish you the best of luck with your hackathon projects and hope these datasets inspire innovative solutions to the challenges at hand! 
