@@ -57,7 +57,18 @@
 - IISD_ELA_Metsite_AirTemp_2015_2020.csv
 - IISD_ELA_Sites1,2,3_Lakes_Ref_SurfaceTemp_2015_2020.csv
 
-## Citing Datasets
+## Judging Criteria
+| Categories | Criteria - Questions | Score |
+| ---------- | -------------------- | ----- |
+| Concept & Communication | Innovation - Was the idea Innovative? | /5 |
+| Concept & Communication | Presentation - Is the content and format of the final submission clear? Were the demo materials helpful? | /5 |
+| Functionality | Effectiveness - Does the solution work as intended to address the problem statement? | /5 |
+| Functionality | Technical Range - How impressive is the range and depth of the solution's technical features? | /5 | 
+| Science | Scientific Knowledge - Does the solution effectively leverage scientific concepts and/or literature? | /5 |
+| Science | Scientific Reasoning - Does the solution clearly communicate its scientific reasoning to the user? | /5 |
+| Usability | User Needs - Did the team identify the needs of their target user? How well does the solution accommodate those needs? | /5 |
+| Usability | User interface - Does the solution provide a clear, unambiguous, and intuitive user experience? | /5 |
+## Citing the Datasets
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  As you work on your projects, we would like to remind you to include an acknowledgement for the IISD-ELA datasets you've utilized in your submissions. Incorporating an acknowledgement for the IISD-ELA datasets can be as simple as a statement in your project submission. Additionally, we encourage you to continue acknowledging the IISD-ELA datasets in any future presentations, publications, or discussions related to your hackathon project.
 ## Terms of Use
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **All participants must follow the terms of use for the datasets provided.** Please carefully read the "ELA DATA - Terms of Use.pdf" file, found in this repository. Reading and following these terms ensures that data is used in a responsible, respectful, and transparent manner, promoting the integrity of the competition and the broader data science and research community.
