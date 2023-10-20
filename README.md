@@ -5,30 +5,30 @@
 
 Not sure where to begin? Here are some suggested steps to get you started on your hacking journey:
 
-- Create or join a team : 
-    - You can find a team or create your own using the Hackworks platform. Teams of 2 to 5 are required. We recommend forming large teams with diverse skillsets to improve your chances of success. 
-- Choose your team's problem statement :
-    - Your team will need to choose one of the 3 problem statements offered on the Hackworks platform. Each problem statement presents different challenges and opportunities.
-    - When choosing your problem statement - and over the course of this hackathon - we encourage you to review the problem statements, challenge datasets, and judging rubric presented below.
-- Identify your mentors :
-    - Your team will be paired with a mentor. This mentor should be your first point of contact for any general inquiries or advice. You are welcome to reach out to other mentors on the platform, but they may be slower to respond. 
-    - Mentors have volunteered their time to provide you with subject-matter guidance related to freshwater science and data management. They have all been instructed NOT to assist you directly with preparing your design concept, reviewing data or developing your solution. 
-    - Please remember to be respectful of the mentors and of their time. 
-- Create a repository :
-    - Decide as a team where your project will be hosted. Code repositories (like GitHub or Bitbucket) offer a good option for code-heavy projects which will require version control. If using GitHub, consider adopting a [cookiecutter template](https://www.cookiecutter.io/templates) for your project structure.
-    - File sharing platforms (like Dropbox or Google Drive) offer a good option for projects that will rely more heavily on files and out-of-the-box freeware (e.g. Google Sheets & Looker Studio).
-    - Remember that your solution will need to be made public, so ensure that whatever option you are using will allow for this.
-- Prepare and submit your pitch :
-    - While not required, we recommend you dedicate some time at the start of the Hackathon to prepare a pitch for your solution. This will help with explaining your solution to mentors and will allow you to build consensus within your team. Please review the submissions page for size requirements.
-    - This is also your opportunity to better understand your user. Solutions should be quick and easy to deploy and require as little computer and data management experience as possible.
-    - Your pitch, if you choose to submit one, is non-binding and will not be included in your final evaluation. You are free to revise your solution completely at any point.
-- Develop, test, deploy :
+- <u>Create or join a team</u> :  
+    - You can find a team or create your own using the Hackworks platform. **Teams of 2 to 5 are required.** We recommend forming large teams with diverse skillsets to improve your chances of success. 
+- <u>Choose your team's problem statement</u> :
+    - Your team will need to **choose one of the 3 problem statements** offered on the Hackworks platform. Each problem statement presents different challenges and opportunities.
+    - When choosing your problem statement - and over the course of this hackathon - we encourage you to review the [problem statements,](#challenges-and-recommended-datasets) [challenge datasets,](#challenges-and-recommended-datasets) and [judging rubric](#judging-criteria) presented below.
+- <u>Identify your mentors</u> :
+    - **Your team will be paired with a mentor.** This mentor should be your first point of contact for any general inquiries or advice. You are welcome to reach out to other mentors on the platform, but they may be slower to respond. 
+    - Mentors have volunteered their time to provide you with **guidance related to their subject-matter expertise** in freshwater science and data management. *They have all been instructed NOT to assist you directly with preparing your design concept, reviewing data or developing your solution.* 
+    - Please remember to **be respectful** of the mentors and of their time. 
+- <u>Create a repository</u> :
+    - Decide as a team where your project will be hosted. **Code repositories** (like GitHub or Bitbucket) offer a good option for code-heavy projects which will require version control. If using GitHub, consider adopting a [cookiecutter template](https://www.cookiecutter.io/templates) for your project structure.
+    - **File sharing platforms** (like Dropbox or Google Drive) offer a good option for projects that will rely more heavily on files and out-of-the-box freeware (e.g. Google Sheets & Looker Studio).
+    - Remember that **your solution will be made public,** so ensure that whatever option you are using will allow for this.
+- <u>Prepare and submit your pitch</u> :
+    - While not required, we recommend you dedicate some time at the start of the Hackathon to prepare a pitch for your solution. This will help with **explaining your solution** to mentors and will allow you to **build consensus** within your team. *Please review the submissions page for size requirements.*
+    - This is also your opportunity to better **understand your user** and the solutions currently available to them. Your solution should be quick and easy to deploy, be compatible with related tools, and require as little computer and data management experience as possible.
+    - Your pitch, if you choose to submit one, is non-binding and *will NOT be included in your final evaluation.* You are free to revise your solution completely at any point.
+- <u>Develop, test, deploy</u> :
     - [Prototypes](https://www.youtube.com/watch?v=H0_yKBitO8M) are a crucial part of technical innovation. Do not expect the first iteration of your solution to work perfectly!
     - [Versioning](https://www.techtarget.com/searchsoftwarequality/definition/versioning) is a recommended practice to ensure that new features can be developed and tested in isolation, without threatening the integrity of the existing solution. If you are following a versioning approach, remember to test new features before deploying them, but also to periodically test your entire solution for issues.
     - It is common practice in software development to improve a solution by repeatedly [developing, testing, and deploying](https://open.oregonstate.education/taleoftwosystems/chapter/the-develop-test-build-deploy-cycle/#:~:text=of%20a%20Develop%E2%80%A6-,Test%E2%80%A6%20Build%E2%80%A6,deployed%20in%20a%20production%20environment.) new features.
-- Prepare demo materials : 
-    - Your team will be required to provide material demonstrating your solution for a potential user. This could be a recorded video, a user manual, and/or any other format of your choice.  Please review the submissions page for size requirements.
-- Submit your solution on the Hackworks platform!
+- <u>Prepare demo materials</u> : 
+    - Your team will be required to provide material **demonstrating your solution for a potential user.** This could be a recorded video, a user manual, and/or any other format of your choice.  Please review the submissions page for size requirements.
+- <u>Submit your solution on the Hackworks platform!</u>
 
 
 ## Challenges and Recommended Datasets
@@ -88,16 +88,16 @@ Not sure where to begin? Here are some suggested steps to get you started on you
 - IISD_ELA_Sites1,2,3_Lakes_Ref_SurfaceTemp_2015_2020.csv
 
 ## Judging Criteria
-| Categories | Criteria - Questions | Score |
-| ---------- | -------------------- | ----- |
-| Concept & Communication | Innovation - Was the idea Innovative? | /5 |
-| Concept & Communication | Presentation - Is the content and format of the final submission clear? Were the demo materials helpful? | /5 |
-| Functionality | Effectiveness - Does the solution work as intended to address the problem statement? | /5 |
-| Functionality | Technical Range - How impressive is the range and depth of the solution's technical features? | /5 | 
-| Science | Scientific Knowledge - Does the solution effectively leverage scientific concepts and/or literature? | /5 |
-| Science | Scientific Reasoning - Does the solution clearly communicate its scientific reasoning to the user? | /5 |
-| Usability | User Needs - Did the team identify the needs of their target user? How well does the solution accommodate those needs? | /5 |
-| Usability | User interface - Does the solution provide a clear, unambiguous, and intuitive user experience? | /5 |
+| Categories | Criteria | Questions | Score |
+| :-------- | :-------- | --------- | :---: |
+| Concept & Communication | Innovation | Was the idea Innovative? | /5 |
+| Concept & Communication | Presentation | Is the content and format of the final submission clear? Were the demo materials helpful? | /5 |
+| Functionality | Effectiveness | Does the solution work as intended to address the problem statement? | /5 |
+| Functionality | Technical Range | How impressive is the range and depth of the solution's technical features? | /5 | 
+| Science | Scientific Knowledge | Does the solution effectively leverage scientific concepts and/or literature? | /5 |
+| Science | Scientific Reasoning | Does the solution clearly communicate its scientific reasoning to the user? | /5 |
+| Usability | User Needs | Did the team identify the needs of their target user? How well does the solution accommodate those needs? | /5 |
+| Usability | User interface | Does the solution provide a clear, unambiguous, and intuitive user experience? | /5 |
 ## Citing the Datasets
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  As you work on your projects, we would like to remind you to include an acknowledgement for the IISD-ELA datasets - and any other datasets - you've utilized in developing your submissions. Incorporating an acknowledgement for datasets can be as simple as a statement included in your project materials or project folder. Additionally, we encourage you to continue acknowledging the datasets used in any future presentations, publications, or discussions related to your hackathon project.
 ## Terms of Use
